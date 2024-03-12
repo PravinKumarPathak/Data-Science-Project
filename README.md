@@ -11,7 +11,7 @@ SpaceX for a rocket launch.
 ### Tasks:
 The following tasks are performed to accomplish the project:
 1) Data Collection with API
-2) Data collection with Web Scraping
+2) Data Collection with Web Scraping
 3) Data Wrangling
 4) EDA with SQL
 5) EDA with Visualization
