@@ -11,13 +11,13 @@ SpaceX for a rocket launch.
 ### Tasks:
 The following tasks are performed to accomplish the project =>
 1) Data Collection with API: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Collection%20with%20API.ipynb)
-2) Data Collection with Web Scraping
-3) Data Wrangling
-4) EDA with SQL
-5) EDA with Visualization
-6) Interactive Visual Analytics with Folium
-7) Interactive Dashboard with Plotly Dash
-8) Machine Learning Prediction
+2) Data Collection with Web Scraping: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
+3) Data Wrangling: [Link]()
+4) EDA with SQL: [Link]()
+5) EDA with Visualization: [Link]()
+6) Interactive Visual Analytics with Folium: [Link]()
+7) Interactive Dashboard with Plotly Dash: [Link]()
+8) Machine Learning Prediction: [Link]()
 
 ### Links:
 1) Interactive Visual Analytics with Folium: [Deployment](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
