@@ -10,7 +10,7 @@ SpaceX for a rocket launch.
 
 ### Tasks:
 The following tasks are performed to accomplish the project =>
-1) Data Collection with API: [Link](https://github.com/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Collection%20with%20API.ipynb)
+1) Data Collection with API: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Collection%20with%20API.ipynb)
 2) Data Collection with Web Scraping
 3) Data Wrangling
 4) EDA with SQL
