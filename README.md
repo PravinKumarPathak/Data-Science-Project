@@ -14,7 +14,7 @@ The following tasks are performed to accomplish the project =>
 2) Data Collection with Web Scraping: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
 3) Data Wrangling: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Data%20Wrangling.ipynb)
 4) EDA with SQL: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/EDA%20with%20SQL.ipynb)
-5) EDA with Visualization: [Link]()
+5) EDA with Visualization: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/EDA%20with%20Visualization.ipynb)
 6) Interactive Visual Analytics with Folium: [Link]()
 7) Interactive Dashboard with Plotly Dash: [Link]()
 8) Machine Learning Prediction: [Link]()
