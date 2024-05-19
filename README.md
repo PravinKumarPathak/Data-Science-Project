@@ -17,7 +17,7 @@ The following tasks are performed to accomplish the project =>
 5) EDA with Visualization: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/EDA%20with%20Visualization.ipynb)
 6) Interactive Visual Analytics with Folium: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 7) Interactive Dashboard with Plotly Dash: [Link](https://data-science-project-dashboard.onrender.com/)
-8) Machine Learning Prediction: [Link]()
+8) Machine Learning Prediction: [Link](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Machine%20Learning%20Prediction.ipynb)
 
 ### Links:
 1) Interactive Visual Analytics with Folium: [Deployment](https://nbviewer.org/github/PravinKumarPathak/Data-Science-Project/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
